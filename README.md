@@ -1,2 +1,2 @@
 # LogicCircuitImplementation
-This is a implemetation of logic circuits in C programming language.
+This is an implemetation of logic circuits in C programming language.
